@@ -16,6 +16,7 @@ Setup
 2.Download this repo.
 
 3.Edit `token.env`, replace the value with your tokens and channel id. You can use any text editor to edit it. 
+
 ![image](https://user-images.githubusercontent.com/80938768/179354355-42f876bd-a57b-4efc-9797-2e6f8bc9a642.png)
 
 4.Run
